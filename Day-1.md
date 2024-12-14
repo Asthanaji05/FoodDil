@@ -23,4 +23,4 @@
 4️⃣ Create a search bar  ✅
 ---
 
-[linkedin post]('https://www.linkedin.com/posts/s-asthanaji_webdevelopment-reactjs-mernstack-activity-7273648835027959808-NrLl?utm_source=share&utm_medium=member_desktop')
+[linkedin post](https://www.linkedin.com/posts/s-asthanaji_webdevelopment-reactjs-mernstack-activity-7273648835027959808-NrLl?utm_source=share&utm_medium=member_desktop)
